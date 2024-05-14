@@ -1,7 +1,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/giolaucm/DIO/blob/3d74e484b8c55685f149aa949c07b707a0d65a88/Code%20%26%20Conquer%20O%20Guia%20Divertido%20e%20Profissional%20para%20Dominar%20Hackathons!.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
